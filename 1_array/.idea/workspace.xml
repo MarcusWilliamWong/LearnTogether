@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c673dd2-b12b-4e73-9511-cb8d9673a779" name="Default Changelist" comment="" />
+    <list default="true" id="9c5cdfd9-4bc6-410a-9c47-2b84214ad3c8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +15,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2QNTka5C70q78blPg9bDGh7Yzpz" />
+  <component name="ProjectId" id="2QTIUsTnLBvcoFk5OJIWgVRbyK4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,8 +31,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="704" />
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="1_array" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -63,12 +63,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c673dd2-b12b-4e73-9511-cb8d9673a779" name="Default Changelist" comment="" />
-      <created>1685193182562</created>
+      <changelist id="9c5cdfd9-4bc6-410a-9c47-2b84214ad3c8" name="Default Changelist" comment="" />
+      <created>1685371164323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685193182562</updated>
-      <workItem from="1685193191207" duration="6281000" />
+      <updated>1685371164323</updated>
+      <workItem from="1685371171686" duration="41000" />
     </task>
     <servers />
   </component>
@@ -76,21 +76,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1685313283913">
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom" timestamp="1685371416490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1685313283913" />
-    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1685313283913">
+    <state width="1323" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1685371416490" />
+    <state width="1323" height="158" key="GridCell.Tab.0.center" timestamp="1685371416490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1685313283913" />
-    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1685313283912">
+    <state width="1323" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1685371416490" />
+    <state width="1323" height="158" key="GridCell.Tab.0.left" timestamp="1685371416490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1685313283912" />
-    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1685313283913">
+    <state width="1323" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1685371416490" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right" timestamp="1685371416490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1685313283913" />
+    <state width="1323" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1685371416490" />
+    <state x="345" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1685371176920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1685371176920" />
   </component>
 </project>

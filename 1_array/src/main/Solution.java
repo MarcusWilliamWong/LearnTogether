@@ -1,3 +1,5 @@
+package main;
+
 class Solution {
     public static int search(int[] nums, int target) {
         //如果目标不在nums区域内，返回-1
