@@ -1,6 +1,7 @@
 # LearnTogether
 Practice algorithm on LeetCode 
 Completed：
+
 0528. 704 binary search
 0529. 27 remove element
 
