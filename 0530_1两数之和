@@ -18,3 +18,21 @@ C++中map，有三种类型：
 std::unordered_map 底层实现为哈希表，std::map 和std::multimap 的底层实现是红黑树。
 
 同理，std::map 和std::multimap 的key也是有序的（这个问题也经常作为面试题，考察对语言容器底层的理解）。
+
+```
+class Solution {
+public:
+  vector<int> twoSum(vector<int>& nums, int target) {
+    unordered_map<int, int> searched;
+    
+    for (int i = 0; i < nums.size(); ++i) {
+      unordered_map<int, int>::iterator iter = searched.find(target - nums[i]);
+      if (iter != searched.end()) {
+        return {iter->second, i};
+      }
+      searched.insert(pair<int, int>{nums[i], i});
+    }
+    return vector<int>(2);
+  }
+};
+```
