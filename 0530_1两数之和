@@ -1,5 +1,11 @@
-1. 学习使用关联容器map的基本用法：初始化、插入新值、，初步了解STL中map的底层实现机制
-2. 
+1. 学习使用关联容器map的基本用法：初始化、插入新值、，初步了解STL中map的底层实现机制; 
+map中元素属于pair类型，为pair<const key_type, mapped_type>，该pair类型整体被定义为value_type
+（在学习顺序容器的时候其实已经有讲到vale_type表示的是容器的元素类型，比如vector<int>，那么这个容器的value_type为int）
+所以mapped_type才是一般常提到的字典值的数据类型；访问map元素的key和value时，使用pair类型的first和second数据成员名
+2. 有序容器的begin(), end() 与 front()，back()的区别，
+begin()/end()返回类型为container_type<value_type>::iterator/const_iterator，迭代器解引用才得到对应元素的引用类型；
+front()/back()返回类型为container_type<value_type>::reference/const_reference
+3. 迭代器再理解：http://c.biancheng.net/view/338.html
 
 C++中map，有三种类型：
 
