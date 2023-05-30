@@ -48,4 +48,41 @@ class Solution {
         }
         return slowIndex;
     }
+
+    // 977 有序数组的平方
+    public static int[] sortedSquares(int[] nums) {
+        //笨蛋暴力法，先平方，然后对平方后的数组用冒泡排序
+//        int size = nums.length;
+//        for(int i = 0; i < size; i++) {
+//            nums[i] *= nums[i];
+//        }
+//        for(int i = 0; i < size; i++) {
+//            for(int j = 0; j < size - i - 1; j++) {
+//                if(nums[j] > nums[j + 1]) {
+//                    int temp = nums[j];
+//                    nums[j] = nums[j + 1];
+//                    nums[j + 1] = temp;
+//                }
+//            }
+//        }
+//        return nums;
+
+        //双指针法
+        int i = 0;
+        int j = nums.length - 1;
+        int[] newNums = new int[nums.length];//新的数组
+        int pos = nums.length - 1;
+        while (i <= j) {
+            if(Math.abs(nums[i]) > Math.abs(nums[j])) {
+                newNums[pos] = nums[i] * nums[i];
+                pos--;
+                i++;
+            } else {
+                newNums[pos] = nums[j] * nums[j];
+                pos--;
+                j--;
+            }
+        }
+        return newNums;
+    }
 }
