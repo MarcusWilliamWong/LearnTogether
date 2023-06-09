@@ -103,4 +103,17 @@ class Solution {
         result = (result == Integer.MAX_VALUE) ? 0 : result;
         return result;
     }
+
+    //59 螺旋矩阵
+    public int[][] generateMatrix(int n) {
+        /*
+        下面这个思路好像不对
+        好像也可以，但感觉要四层循环！！
+        //1.新建一个二维矩阵，i代表行，j代表列
+        //2.计算出n^2
+        //3.新建一个2n-1大小的数组，存储内容为[n,n-1,n-1,...,n-(n-1),n-(n-1)]
+        //4.当前需要存储的数字为nowNumber = n^2;
+         */
+
+    }
 }
