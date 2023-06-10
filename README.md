@@ -11,4 +11,4 @@ Completed：
 
 In progress：
 1. java编程思想 （非常感谢https://www.cnblogs.com/ChaoJieLiu/p/12910447.html ）
-2. Jetson Nano
+2. Jetson Nano https://github.com/PettyDriedFish/A-Smart-Home-System-Based-on-Jetson-Nano/blob/main/README.md
