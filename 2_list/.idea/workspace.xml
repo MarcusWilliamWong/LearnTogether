@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c5cdfd9-4bc6-410a-9c47-2b84214ad3c8" name="Default Changelist" comment="" />
+    <list default="true" id="c2f4e37e-1755-4064-a3e1-d815eaabed06" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2QTIUsTnLBvcoFk5OJIWgVRbyK4" />
+  <component name="ProjectId" id="2WVySUtfydz0lOuQ5pb4Mx6zj5j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,8 +31,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="1_array" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2_list" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -40,11 +40,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,33 +58,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c5cdfd9-4bc6-410a-9c47-2b84214ad3c8" name="Default Changelist" comment="" />
-      <created>1685371164323</created>
+      <changelist id="c2f4e37e-1755-4064-a3e1-d815eaabed06" name="Default Changelist" comment="" />
+      <created>1696832041652</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685371164323</updated>
-      <workItem from="1685371171686" duration="6378000" />
-      <workItem from="1686132572482" duration="2173000" />
-      <workItem from="1686345483575" duration="2567000" />
-      <workItem from="1696831928485" duration="114000" />
+      <updated>1696832041652</updated>
+      <workItem from="1696832046027" duration="1066000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1696832024580">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1696832024580" />
-    <state x="345" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1696831929060">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="345" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1696831929060" />
-    <state x="57" y="0" key="new project wizard" timestamp="1696832041191">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1696832041191" />
   </component>
 </project>
